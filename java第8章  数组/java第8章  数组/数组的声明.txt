@@ -1,0 +1,86 @@
+数组中的元素有默认值：
+String		null
+int		0
+double		0.0
+
+数组的声明（判断哪些正确，哪些错误）：
+int[] a = new int[3];	
+
+int[3] a = new int[3];	
+
+int a[] = new int[3];	
+
+int[] a = new int[3]{10,20,30};	
+
+int[] a = new int[3]{10,20,30,40}; 
+
+int[] a = new int[]{10,20,30}; 
+
+int[] a = {10,20,30};	
+
+int[] a;			
+a = new int[]{10,20,30};
+
+int[] a;		
+a = {10,20,30};
+
+int[] a;		
+a = new int[3];
+
+int[] a = new int[3];	
+a[2] = 20;
+
+int[] a = new int[3];	
+a[3] = 30;
+
+int[] a = new int[3];	
+a[0] = 1.5;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
